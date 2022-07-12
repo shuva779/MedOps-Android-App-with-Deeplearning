@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "927032576972",
+    "project_id": "medops-covid19-detection",
+    "storage_bucket": "medops-covid19-detection.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927032576972:android:aabf62ac2c1902f73a2b69",
+        "android_client_info": {
+          "package_name": "com.istiaksaif.medops"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927032576972-0vrch42dskndvomg7nglc088ra1vn8a1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.istiaksaif.medops",
+            "certificate_hash": "6dff9f07f94305e23beab4f6e989d91d86dbf756"
+          }
+        },
+        {
+          "client_id": "927032576972-4rj306eq8h9ch530rsl427ul58js4iq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa0cx7qciWYx-vuwhCC8UrNOIWy5rob0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927032576972-4rj306eq8h9ch530rsl427ul58js4iq8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">MedOps</string>
+    <string name="reset_password_msg">Enter your registered email below.  </string>
+    <string name="reset_password_msg1">we will send your RESET link via Email.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="open">Open navigation drawer</string>
+    <string name="close">Close navigation drawer</string>
+    <string name="Working_In">Working In</string>
+    <string name="Consult_Day">Consult Day</string>
+    <string name="Consult_Fee">Consult Fee</string>
+    <string name="Rating">Rating</string>
+    <string name="Consult_Hour">Consult Hour</string>
+    <string name="Experience">Experience</string>
+    <string name="Patients">Patients</string>
+    <string name="Take_Appoinment">Take Appointment</string>
+    <string name="confirm_Appoinment">Confirm Appointment</string>
+    <string name="Consult_Video">Consult on Video</string>
+    <string name="Favorite">Favorite</string>
+    <string name="blank"> </string>
+    <string name="popup_title">Please check the date and time and then confirm the appointment for your consult with doctor</string>
+    <string name="bkash">01780772383(Send Money/Cash In) Minimum 10 TK</string>
+    <string name="verifyMsg">** you have to first send money or cash in after that you can verify payment. if you skip the following instruction your payment not successful</string>
+    <string name="idealTime">an IDEAL time for you</string>
+    <string name="timeUnavailable">Unfortunately, this time is not available</string>
+    <string name="sufficient_balance">You do not have sufficient balance</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Prediction">Prediction</string>
+    <string name="UpcomingVisit">Upcoming Visit</string>
+    <string name="congrats">Congrats</string>
+    <string name="earnTk">You have earned 1000 TK</string>
+</resources>
